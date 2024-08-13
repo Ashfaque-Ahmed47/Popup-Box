@@ -75,3 +75,8 @@
 .popup button:hover{
     transform: scale(1.1);
 }
+@media (max-width: 500px){
+    .popup{
+        width: 330px;
+          }
+}
